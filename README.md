@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...software devloper
 - 🌱 I’m currently learning ...Web devlopment
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...vijayyadav37278@gmail.com
+- 📫 How to reach me vijayyadav37278@gmail.com
   
 
 <!---
